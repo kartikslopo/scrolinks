@@ -1,0 +1,13 @@
+.logo{
+	height: 400px;
+	width: 400px;
+
+}
+#header .logo img{
+	height: 100px;
+	max-height: 500px;
+}
+
+.op{
+	text-align: center;
+}
